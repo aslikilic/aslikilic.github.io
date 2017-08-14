@@ -1,0 +1,8 @@
+- name: Anasayfa
+  link: /
+- name: Hakkımda
+  link: /about/
+- name: Yazılar
+  link: /posts/
+- name: İLETİŞİM
+  link: /contact/
