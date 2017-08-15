@@ -4,16 +4,16 @@
 title: Uzakgibi
 url: "http://uzakgibi.com"
 baseurl:
-google_analytics_key: "153157815691-76ngda98l0cb7ef5kaucnra2nqut5kn1.apps.googleusercontent.com"
+google_analytics_key:
 newsletter_action: "//uzakgibi.us16.list-manage.com/subscribe/post?u=af81412494bca50410da21305&amp;id=6447be33cb"
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Bir Göçmenin Avustralya Serüveni
-author:
+author: 
   name:
-  email:
+  email: 
   twitter: # twitter username without the @ symbol
 social:
   name: Uzakgibi
