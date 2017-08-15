@@ -5,7 +5,7 @@ title: Uzakgibi
 url: "http://uzakgibi.com"
 baseurl:
 google_analytics_key:
-newsletter_action: "//your-mailchimp-action-url.com"
+newsletter_action: "//uzakgibi.us16.list-manage.com/subscribe/post?u=af81412494bca50410da21305&amp;id=6447be33cb"
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
